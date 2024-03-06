@@ -8,6 +8,7 @@ TagManager:
   - TrashBag
   - TrashCan
   - Bench
+  - CutsceneManager
   layers:
   - Default
   - TransparentFX
